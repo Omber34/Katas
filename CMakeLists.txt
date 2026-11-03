@@ -18,7 +18,7 @@ endif ()
 
 
 add_executable(Katas_tests
-	main.cpp
+	reverse_linked_list.cpp
 )
 
 target_link_libraries(Katas_tests gtest gtest_main)
