@@ -19,6 +19,11 @@ endif ()
 
 add_executable(Katas_tests
 	reverse_linked_list.cpp
+    string_to_number.cpp
+    find_most_frequent_char.cpp
+    first_unique.cpp
+    stood_unique.cpp
+    sliding_window.cpp
 )
 
 target_link_libraries(Katas_tests gtest gtest_main)
