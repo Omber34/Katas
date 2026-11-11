@@ -24,6 +24,7 @@ add_executable(Katas_tests
     first_unique.cpp
     stood_unique.cpp
     sliding_window.cpp
+        compress_string.cpp
 )
 
 target_link_libraries(Katas_tests gtest gtest_main)

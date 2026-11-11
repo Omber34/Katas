@@ -30,3 +30,8 @@ TEST_F(SampleTest, test)
 {
 
 }
+
+TEST(SampleTest, trivial)
+{
+
+}
